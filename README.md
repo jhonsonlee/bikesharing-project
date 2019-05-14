@@ -1,7 +1,7 @@
 # Designing Neural Network for Bike Sharing Project
 
 ## Overview
-In this repository, you can have a notebook that provides design flow on how to build your Multilayer Neural Network (MLP) from scratch. This is a good starting point if you want to learn into details about what happen inside MLP. You are encouraged to learn neural network in theory and mathematics to have good command in this notebook.
+In bike-sharing company, allocating bikes based on the time when many people need them is a challenging task. This project address this issue by leveraging Neural Network to predict the potential number of people who will use the bikes with respect to time. In this project, I have designed and implemented Multi Layer Perceptron(MLP) from scratch in Python and Numpy. This sample project offers good learning resources for whom are beginners in deep neural networks.
 
 
 ## Make Use of This Repo
@@ -10,3 +10,12 @@ This repo is originally from [udacity_pytorch](https://github.com/udacity/deep-l
 Once you have completed all TODOs in `your_answer.py`, you can head to your `Your_first_neural_network.ipynb` to run and debug your code.
 
 Enjoy your time! Happy learning!
+
+
+## Quick Start
+1. Clone this repository into your machine by typing the following command on your Linux terminal or Windows command prompt.
+`> git clone https://github.com/jhonsonlee/bikesharing-project.git`
+2. Launch Jupyter Notebook in your machine by typing the following command.
+`> jupyter notebook`
+3. On your Jupyter Notebook console head to the directory where your clone the repository and then open `your_answer.py`.
+4. Complete all the exercise and if you are stuck please head to `my_solution.py`.
