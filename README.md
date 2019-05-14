@@ -14,8 +14,12 @@ Enjoy your time! Happy learning!
 
 ## Quick Start
 1. Clone this repository into your machine by typing the following command on your Linux terminal or Windows command prompt.
-`> git clone https://github.com/jhonsonlee/bikesharing-project.git`
+```
+> git clone https://github.com/jhonsonlee/bikesharing-project.git
+```
 2. Launch Jupyter Notebook in your machine by typing the following command.
-`> jupyter notebook`
+```
+> jupyter notebook
+```
 3. On your Jupyter Notebook console head to the directory where your clone the repository and then open `your_answer.py`.
 4. Complete all the exercise and if you are stuck please head to `my_solution.py`.
